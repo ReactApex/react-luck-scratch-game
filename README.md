@@ -108,7 +108,7 @@ A non-exhaustive list of all the software that was used during the development o
 
 ## See Also
 
-- [Scratch Bonanza Server](https://github.com/michaelkolesidis/scratch-bonanza-server)
+- [Scratch Bonanza Server](https://github.com/reactapex/luck-scratch-game-server)
 
 ## License
 
